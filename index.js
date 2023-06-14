@@ -1,4 +1,3 @@
-function printImage(data) {
-	console.log(data);
-	document.print();
+function aboutStan(url) {
+	window.location.href = url;
 }
